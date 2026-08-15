@@ -1,0 +1,6 @@
+{
+  "name": "AI Content Creator",
+  "description": "Super-fast multi-platform social media copy generator supporting English, Urdu, and Roman Urdu with instant 3-option copy outputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
